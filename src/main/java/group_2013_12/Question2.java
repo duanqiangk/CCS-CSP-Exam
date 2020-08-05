@@ -1,11 +1,11 @@
-package main.java;
+package main.java.group_2013_12;
 
 import java.util.*;
 
 /**
  * @Description 直接计算，合格则输出Right，不合格输出正确字符串
  */
-public class Main {
+public class Question2 {
 
     /**
      * 计算正确的识别码
