@@ -1,8 +1,8 @@
-package main.java;
+package main.java.group_2013_12;
 
 import java.util.*;
 
-public class Main {
+public class Question3 {
     /**
      * 结果面积
      */
