@@ -1,4 +1,4 @@
-package main.java;
+package main.java.group_2013_12;
 
 import java.util.Scanner;
 
@@ -18,7 +18,7 @@ import java.util.Scanner;
  * S+---T
  * #.####
  */
-public class Main {
+public class Question5 {
 
     private static final int MAP_SIZE = 50;
 
